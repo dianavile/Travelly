@@ -1,4 +1,4 @@
 # Travelly
 Travel website HTML, CSS
 
-![Landingpage]()
+![Landingpage](https://github.com/dianavile/Travelly/blob/master/landingpageTravelly.PNG)
